@@ -7,7 +7,7 @@ public class ImperativeVsDeclarativeProgramming {
     public static void main(String[] args) {
 
         List<Person> people = List.of(new Person("thofiq", 34, Gender.MALE),
-                new Person("test", 32, Gender.FEMALE));
+                new Person("circlescompany", 32, Gender.FEMALE));
 
         //Imperative style ==> declare each and every thing
         List<Person> females = new ArrayList<>();

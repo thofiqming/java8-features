@@ -4,6 +4,6 @@ public class Interview {
 
     @Test
     public void run() {
-        System.out.println("test");
+        System.out.println("circlescompany");
     }
 }

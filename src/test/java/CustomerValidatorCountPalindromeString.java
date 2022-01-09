@@ -2,7 +2,7 @@ import extension.Customer;
 import extension.CustomerValidatorExtension;
 import org.junit.jupiter.api.Test;
 
-public class CustomerValidatorTest {
+public class CustomerValidatorCountPalindromeString {
 
     @Test
     public void isCustomerValid() {
